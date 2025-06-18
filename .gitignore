@@ -12,7 +12,7 @@
 *.test
 
 # Code coverage profiles and other test artifacts
-*.DS_Store
+**/.DS_Store
 *.out
 coverage.*
 *.coverprofile
